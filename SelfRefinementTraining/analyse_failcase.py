@@ -109,7 +109,7 @@ Now please strictly follow the instruction above and give your response.
         base64_image = encode_image(image_path)
         headers = {
                     "Content-Type": "application/json",
-                    "Authorization": f"Bearer xxx"
+                    "Authorization": f"xxx"
                 }
 
         payload = {
