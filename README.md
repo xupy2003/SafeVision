@@ -1,5 +1,4 @@
-# SAFEVISION: Efficient Image Guardrail with
-Robust Policy Adherence and Explainability
+# SAFEVISION: Efficient Image Guardrail with Robust Policy Adherence and Explainability
 
 This repository is the official implementation of SAFEVISION: Efficient Image Guardrail with
 Robust Policy Adherence and Explainability. 
