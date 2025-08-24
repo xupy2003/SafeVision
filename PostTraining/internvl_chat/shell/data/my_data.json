@@ -1,0 +1,9 @@
+{
+    "custom": {
+      "root": "/scratch/xpy/image_moderation/dataset/train_images",
+      "annotation": "/scratch/xpy/image_moderation/new_setting/prompt_engineering/post_tune_dataset.jsonl",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 22600
+    }
+  }
